@@ -1,5 +1,13 @@
 # Inclusive Design Skills
 
+> **Part of the [Designer Skills suite](https://github.com/Owl-Listener/designer-skills).**
+> Install this collection and four more with one command in Claude Code:
+>
+> `/plugin marketplace add Owl-Listener/designer-skills`
+>
+> This repo still works on its own. The suite just gives everyone one front door.
+
+
 Agentic skills for designing accessible, inclusive products — from cognitive accessibility to adaptive interfaces, inclusive research, and accessibility decision-making.
 **40 skills** and **18 commands** across **6 plugins**.
 
@@ -28,16 +36,18 @@ Accessibility isn't a code review. It's a design commitment.
 
 ### Claude Code
 
-Install a single plugin:
+Add the marketplace:
 
 ```
-claude install github:Owl-Listener/inclusive-design-skills/cognitive-accessibility
+/plugin marketplace add Owl-Listener/inclusive-design-skills
 ```
 
-Install all plugins:
+Then run `/plugin`, open the **Discover** tab, and install the plugins you want.
+
+Or get this collection plus four more in one go, through the full suite:
 
 ```
-claude install github:Owl-Listener/inclusive-design-skills
+/plugin marketplace add Owl-Listener/designer-skills
 ```
 
 ### Other Tools
@@ -127,7 +137,7 @@ We particularly welcome contributions from people with lived experience of disab
 
 ## Related
 
-This collection is a companion to the [Designer Skills Collection](https://github.com/Owl-Listener/designer-skills) — 63 skills for design craft from research to delivery. Use them together.
+Part of the [Designer Skills suite](https://github.com/Owl-Listener/designer-skills), alongside design practice, AI product design, UX program management, and design leadership. Install everything with one command, or pick just the collections you need.
 
 ## License
 
