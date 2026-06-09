@@ -1,0 +1,17 @@
+{
+  "name": "adaptive-interfaces",
+  "version": "1.0.0",
+  "description": "Design systems that respect user preferences and adapt to individual needs.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": [
+    "inclusive-design",
+    "accessibility",
+    "adaptive",
+    "interfaces"
+  ],
+  "homepage": "https://marieclairedean.substack.com/",
+  "license": "MIT"
+}
