@@ -1,0 +1,48 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "inclusive-design-skills",
+  "version": "1.0.0",
+  "description": "Inclusive Design Skills: agentic skills for accessible, inclusive products \u2014 from cognitive accessibility to adaptive interfaces, inclusive research, and accessibility decisions.",
+  "owner": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "plugins": [
+    {
+      "name": "cognitive-accessibility",
+      "description": "Design for how people actually think: cognitive load, plain language, wayfinding, focus, memory, and error recovery.",
+      "source": "./cognitive-accessibility",
+      "category": "accessibility"
+    },
+    {
+      "name": "inclusive-interaction",
+      "description": "Design multi-modal interactions that adapt to how people move, perceive, and communicate.",
+      "source": "./inclusive-interaction",
+      "category": "accessibility"
+    },
+    {
+      "name": "accessible-content",
+      "description": "Structure content that works for screen readers, cognitive differences, and diverse literacy levels.",
+      "source": "./accessible-content",
+      "category": "accessibility"
+    },
+    {
+      "name": "inclusive-personas",
+      "description": "Build user stories, personas, and scenarios that include disability from the start.",
+      "source": "./inclusive-personas",
+      "category": "accessibility"
+    },
+    {
+      "name": "adaptive-interfaces",
+      "description": "Design systems that respect user preferences and adapt to individual needs.",
+      "source": "./adaptive-interfaces",
+      "category": "accessibility"
+    },
+    {
+      "name": "accessibility-decisions",
+      "description": "Document, communicate, and maintain accessibility decisions across teams and time.",
+      "source": "./accessibility-decisions",
+      "category": "accessibility"
+    }
+  ]
+}

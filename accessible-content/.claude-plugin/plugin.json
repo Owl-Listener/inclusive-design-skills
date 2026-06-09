@@ -1,0 +1,17 @@
+{
+  "name": "accessible-content",
+  "version": "1.0.0",
+  "description": "Structure content that works for screen readers, cognitive differences, and diverse literacy levels.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": [
+    "inclusive-design",
+    "accessibility",
+    "accessible",
+    "content"
+  ],
+  "homepage": "https://marieclairedean.substack.com/",
+  "license": "MIT"
+}

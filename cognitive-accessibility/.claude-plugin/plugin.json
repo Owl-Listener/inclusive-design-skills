@@ -1,0 +1,17 @@
+{
+  "name": "cognitive-accessibility",
+  "version": "1.0.0",
+  "description": "Design for how people actually think: cognitive load, plain language, wayfinding, focus, memory, and error recovery.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": [
+    "inclusive-design",
+    "accessibility",
+    "cognitive",
+    "accessibility"
+  ],
+  "homepage": "https://marieclairedean.substack.com/",
+  "license": "MIT"
+}

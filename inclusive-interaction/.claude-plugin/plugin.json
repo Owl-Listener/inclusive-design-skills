@@ -1,0 +1,17 @@
+{
+  "name": "inclusive-interaction",
+  "version": "1.0.0",
+  "description": "Design multi-modal interactions that adapt to how people move, perceive, and communicate.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": [
+    "inclusive-design",
+    "accessibility",
+    "inclusive",
+    "interaction"
+  ],
+  "homepage": "https://marieclairedean.substack.com/",
+  "license": "MIT"
+}

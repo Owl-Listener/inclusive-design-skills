@@ -1,0 +1,17 @@
+{
+  "name": "inclusive-personas",
+  "version": "1.0.0",
+  "description": "Build user stories, personas, and scenarios that include disability from the start.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": [
+    "inclusive-design",
+    "accessibility",
+    "inclusive",
+    "personas"
+  ],
+  "homepage": "https://marieclairedean.substack.com/",
+  "license": "MIT"
+}
